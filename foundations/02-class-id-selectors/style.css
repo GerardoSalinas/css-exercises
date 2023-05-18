@@ -1,0 +1,20 @@
+.regular-class,
+.cooler-class {
+    background-color: rgb(233, 105, 124);
+    font-family: "Verdana","DejaVu Sans", sans-serif;
+}
+
+#number2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgb(116, 231, 116);
+    font-weight: 700;
+    font-size: 24px;
+}
